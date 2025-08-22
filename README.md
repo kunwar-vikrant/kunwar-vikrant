@@ -32,7 +32,7 @@ I am **Kunwar Vikrant**, a daring Gryffindor from the House of Courage, schooled
 
 ## ⚡ ACTIVE INCANTATIONS
 
-- **Gryffindor Expansion**: Infusing distributed and ai systems with voice charms for multimodal wizardry.
+- **Gryffindor Expansion**: Infusing distributed and ai systems with charms for multimodal wizardry.
 - **Open-Source Patronus**: Casting contributions in distributed systems, ML/RL covens across GitHub.
 - **Forbidden Leap**: Delving into quantum runes and advanced GenAI transfigurations.
 

@@ -30,22 +30,6 @@ I am **Kunwar Vikrant**, a daring Gryffindor from the House of Courage, schooled
 
 
 
-## 📜 MARAUDER’S MAP: S+ WIZARDING METRICS
-
-Your arcane vitals, graded **S+** for Gryffindor supremacy in the O.W.L.s of code:
-
-![Kunwar's Spell Stats](https://github-readme-stats.vercel.app/api?username=kunwar-vikrant&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&custom_title=Gryffindor%20AI%20Stats)
-![Language Runes](https://github-readme-stats.vercel.app/api/top-langs/?username=kunwar-vikrant&layout=compact&theme=transparent&hide_border=true&langs_count=6)
-![Sorcery Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunwar-vikrant&theme=transparent&hide_border=true)
-
-![Wizard Trophies](https://github-profile-trophy.vercel.app/?username=kunwar-vikrant&theme=radical&no-frame=true&margin-w=15&margin-h=15)
-
-![Activity Enchantment](https://github-readme-activity-graph.vercel.app/graph?username=kunwar-vikrant&theme=react-dark&hide_border=true&area=true)
-
-![S+ Owl Grade](https://img.shields.io/badge/Wizard%20Grade-S%2B-FFD700?style=for-the-badge&logo=star&logoColor=740001)
-
----
-
 ## ⚡ ACTIVE INCANTATIONS
 
 - **Gryffindor Expansion**: Infusing distributed and ai systems with voice charms for multimodal wizardry.

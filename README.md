@@ -49,41 +49,8 @@ Send a Gryffindor owl to ally in magical pursuits:
 > *Wingardium Leviosa* your message for collaborations, AI duels, or arcane debates!
 
 
-## 📈 ALCHEMY LOG: SPELL SYNAPSES
-
-A charmed visualization of incantations (commits) for 2025:
-
-```chartjs
-{
-  "type": "line",
-  "data": {
-    "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug"],
-    "datasets": [{
-      "label": "Spells Cast (Commits)",
-      "data": [120, 150, 180, 200, 220, 190, 160, 140],
-      "borderColor": "#FFD700",
-      "backgroundColor": "rgba(255, 215, 0, 0.2)",
-      "fill": true
-    }]
-  },
-  "options": {
-    "scales": {
-      "y": { "beginAtZero": true, "title": { "display": true, "text": "Incantations" } },
-      "x": { "title": { "display": true, "text": "Month (2025)" } }
-    },
-    "plugins": {
-      "title": { "display": true, "text": "Kunwar’s Gryffindor Alchemy Activity" }
-    }
-  }
-}
-```
-
-*(A mere illusion; provide true commit data for a precise enchantment.)*
-
----
-
 ```
    ╔════════════════════════════════════════════════════╗
-   ║  “Bravery in code, magic in AI—Gryffindor forever.”║
+   ║  “Bravery in code, magic in AI forever.”║
    ╚════════════════════════════════════════════════════╝
 ```

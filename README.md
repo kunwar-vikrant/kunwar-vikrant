@@ -11,7 +11,7 @@ I am **Kunwar Vikrant**, a daring Gryffindor from the House of Courage, schooled
 
 ---
 
-## 🪄 WIZARDING PROFILE: GRYFFINDOR AI MASTER
+## 🪄 WIZARDING PROFILE
 
 - **House**: Gryffindor (for valor in facing AI's deepest mysteries)
 - **Patronus**: Lion (fierce protector of ethical algorithms)

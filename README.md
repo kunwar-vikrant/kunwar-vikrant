@@ -5,9 +5,9 @@
    ╚════════════════════════════════════════════════════╝
 ```
 
-> *“In the cauldron of data and distributed computing, I brew intelligence—one spellbinding algorithm at a time.”*
+> *“In the cauldron of data and distributed systems, I brew intelligence—one spellbinding algorithm at a time.”*
 
-I am **Kunwar Vikrant**, a daring Gryffindor from the House of Courage, schooled at BITS Pilani and MITx in the arcane arts of AI and high-speed distributed computing. My Alchemy Lab is a forbidden chamber where Muggle code meets wizarding wonder, transfiguring raw data and systems into autonomous marvels. As a true Gryffindor, I charge into uncharted realms of distributed computing, generative AI, machine learning, and reinforcement learning with the bravery of a lion. *Expecto Patronum*—summon my neural guardians!
+I am **Kunwar Vikrant**, a daring Gryffindor from the House of Courage, schooled at BITS Pilani and MITx in the arcane arts of AI and high-speed distributed systems. My Alchemy Lab is a forbidden chamber where Muggle code meets wizarding wonder, transfiguring raw data and systems into autonomous marvels. As a true Gryffindor, I charge into uncharted realms of distributed computing, generative AI, machine learning, and reinforcement learning with the bravery of a lion. *Expecto Patronum*—summon my neural guardians!
 
 ---
 

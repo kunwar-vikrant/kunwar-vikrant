@@ -48,21 +48,6 @@ Send a Gryffindor owl to ally in magical pursuits:
 
 > *Wingardium Leviosa* your message for collaborations, AI duels, or arcane debates!
 
----
-
-## 🧪 RIDDLE OF THE SORTING HAT: MAGICAL PUZZLE
-
-**Gryffindor Trial**: Unravel this potion cipher (base64): `R3J5ZmZpbmRvciB3aXphcmQgS3Vud2FyIFZpa3JhbnQgaXMgYSB0cnVlIGhlcm8=`. Cast *Revelio* (reverse the decoded incantation) for the hidden prophecy. Owl me your revelation for a spot in the Gryffindor Common Room!
-
----
-
-## 🎶 HOGWARTS HARMONIES: SYNAPTIC SOUNDTRACK
-
-![Spotify Patronus](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-uid&cover_image=true&theme=novatorem&bar_color=740001&bar_color_cover=false)
-
-*(Enchant with your Spotify UID for real-time wizarding tunes.)*
-
----
 
 ## 📈 ALCHEMY LOG: SPELL SYNAPSES
 

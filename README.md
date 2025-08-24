@@ -1,7 +1,7 @@
 ```
    ╔════════════════════════════════════════════════════╗
    ║  ENTER THE NEURAL INNOVATION LAB OF KUNWAR VIKRANT ║
-   ║  BITS Pilani | MITx – AI & Systems Engineer        ║
+   ║  BITS Pilani | MITx – Engineer                     ║
    ╚════════════════════════════════════════════════════╝
 ```
 

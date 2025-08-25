@@ -11,7 +11,7 @@ I am **Kunwar Vikrant**, an engineer from BITS Pilani and MITx, specializing in 
 
 ---
 
-## 🔬 ENGINEERING PROFILE
+## 🔬 PROFILE
 
 - **Vision**: Forging the future through ethical, high-impact AI systems.
 - **Core Drive**: Accelerating innovation from lab to launch, like a rocket to orbit.

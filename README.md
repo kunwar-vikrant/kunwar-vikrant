@@ -13,7 +13,7 @@ I am **Kunwar Vikrant**, an engineer from BITS Pilani and MITx, specializing in 
 
 ## 🔬 PROFILE
 
-- **Vision**: Forging the future through ethical, high-impact AI systems.
+- **Vision**: Forging the future through ethical, high-impact AI and distributed systems.
 - **Core Drive**: Accelerating innovation from lab to launch, like a rocket to orbit.
 - **Tech Stack**: Python, Go, PyTorch, Kubernetes, FastAPI, Flask, Celery, MongoDB, Redis, Generative AI, Kafka, AWS SQS
 - **Expertise Areas**: Distributed Systems, Machine Learning, Deep Learning, Generative AI, Reinforcement Learning, Recommendation Systems, NLP, Predictive Analysis, Algorithms, Data Structures, A/B Testing, AWS (Lambda, SQS, CloudFormation, ECS), GCP (Vertex AI, BigQuery)

@@ -1,13 +1,13 @@
 ```
    ╔════════════════════════════════════════════════════╗
-   ║  ENTER THE NEURAL INNOVATION LAB OF KUNWAR VIKRANT ║
-   ║  BITS Pilani | MITx – Engineer                     ║
+   ║                 KUNWAR VIKRANT                     ║
+   ║BITS Pilani | MITx – Engineer | AI HPC | Agentic AI ║
    ╚════════════════════════════════════════════════════╝
 ```
 
 > *“In the cauldron of data and distributed systems, I brew intelligence—one spellbinding algorithm at a time.”*
 
-I am **Kunwar Vikrant**, an engineer from BITS Pilani and MITx, specializing in AI and high-speed distributed systems. My Innovation Lab is a cutting-edge hub where code converges with frontier tech, transforming systems and raw data into autonomous, scalable solutions. I push boundaries in distributed computing, generative AI, machine learning, and reinforcement learning with the relentless drive of a visionary.
+I am **Kunwar Vikrant**, an engineer from BITS Pilani, specializing in AI and high-speed distributed systems. My Innovation Lab is a cutting-edge hub where code converges with frontier tech, transforming systems and raw data into autonomous, scalable solutions. I push boundaries in distributed computing, generative AI, machine learning, and reinforcement learning with the relentless drive of a visionary.
 
 ---
 

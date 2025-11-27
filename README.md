@@ -1,14 +1,10 @@
-╔════════════════════════════════════════════════════╗
-║             KUNWAR VIKRANT                        ║
-║ BITS Pilani → MITx | AI & Distributed Systems     ║
-╚════════════════════════════════════════════════════╝
 
 > Building scalable, autonomous AI systems at the intersection of generative models, reinforcement learning, and high-performance distributed infrastructure.
 
 ## Highlights
 - BITS Pilani (Computer Science), MITx MicroMasters in Statistics & Data Science
 - 5+ years production ML & distributed systems (recommendation engines, malware detection, multimodal agents)
-- Primary stack: Python → Go, PyTorch → JAX, Kubernetes → Ray, Kafka → Pulsar
+- Primary stack: Python → Go, PyTorch → Flink, Kubernetes → VertexAI, Kafka.
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python)](...)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.4+-EE4C2C?style=flat&logo=pytorch)](...)

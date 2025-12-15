@@ -2,7 +2,7 @@
 > Building scalable, autonomous AI systems at the intersection of generative models, reinforcement learning, and high-performance distributed infrastructure.
 
 ## Highlights
-- BITS Pilani (Computer Science), MITx MicroMasters in Statistics & Data Science
+- BITS Pilani (Computer Science), MITx.
 - 5+ years production ML & distributed systems (recommendation engines, malware detection, multimodal agents)
 - Primary stack: Python → Go, PyTorch → Flink, Kubernetes → VertexAI, Kafka.
 

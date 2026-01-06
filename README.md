@@ -1,5 +1,5 @@
 
-> Building scalable, autonomous AI systems at the intersection of generative models, reinforcement learning, and high-performance distributed infrastructure.
+> Building scalable, autonomous systems at the intersection of high performance computing, generative models, reinforcement learning, and high-performance distributed infrastructure.
 
 ## Highlights
 - BITS Pilani (Computer Science), MITx.

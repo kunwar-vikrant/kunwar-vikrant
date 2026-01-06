@@ -19,7 +19,7 @@
 
 ## Let’s Build Together
 Open to:
-- Consulting on production ML / agentic systems
+- Consulting on production High performance distributed Systems, ML / agentic systems
 - Research collaborations (multimodal, RL, distributed training)
 - Advisory roles for AI startups
 

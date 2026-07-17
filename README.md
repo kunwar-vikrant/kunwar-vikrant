@@ -3,7 +3,7 @@
 
 ## Highlights
 - BITS Pilani (Computer Science), MITx.
-- 5+ years production ML & distributed systems.
+- 6+ years production ML & distributed systems.
 - Primary stack: Python → Go, PyTorch → Flink, Kubernetes → VertexAI, Kafka, AWS.
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python)](...)

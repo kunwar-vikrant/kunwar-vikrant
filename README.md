@@ -1,32 +1,33 @@
+> Building scalable, autonomous systems at the intersection of high-performance computing, generative models, reinforcement learning, and distributed infrastructure.
 
-> Building scalable, autonomous systems at the intersection of high performance computing, generative models, reinforcement learning, and high-performance distributed infrastructure.
+## 🚀 Highlights
+- **Background:** BITS Pilani (Computer Science) and MITx.
+- **Experience:** 6+ years shipping production-grade ML and high-performance distributed systems.
+- **Philosophy:** *"Prefer code that ships and scales over code that sparkles."*
 
-## Highlights
-- BITS Pilani (Computer Science), MITx.
-- 6+ years production ML & distributed systems.
-- Primary stack: Python → Go, PyTorch → Flink, Kubernetes → VertexAI, Kafka, AWS.
+## 🧠 Core Competencies & Architecture
 
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python)](...)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.4+-EE4C2C?style=flat&logo=pytorch)](...)
-[![Go](https://img.shields.io/badge/Go-1.23+-00ADD8?style=flat&logo=go)](...)
+| Domain | Engineering Paradigms & Capabilities |
+| :--- | :--- |
+| **Systems Programming** | Concurrent & parallel computing, memory-safe backend services, high-throughput APIs. |
+| **Artificial Intelligence** | Deep learning architectures, large-scale model inference, agentic orchestration, scalable MLOps. |
+| **Distributed Data** | Real-time stream processing, distributed event streaming, stateful fault-tolerant pipelines. |
+| **Infrastructure & Scale** | Cloud-native architecture, container orchestration, distributed training clusters, auto-scaling compute. |
 
-
-## Current Focus (2025–2026)
-- Scaling multimodal agents to 100k+ concurrent sessions (Ray + vLLM + custom scheduler)
-- Quantum-inspired optimization for large-scale RL.
-- Open-source distributed training primitives for Grok-scale models
-
-
-## Let’s Build Together
-Open to:
-- Consulting on production High performance distributed Systems, ML / agentic systems
-- Research collaborations (multimodal, RL, distributed training)
-- Advisory roles for AI startups
-
-→ kunwar.vikrant.professional@gmail.com  
-→ [linkedin.com/in/kunwarvikrant](https://www.linkedin.com/in/kunwarvikrant) | [@wizard_kv](https://x.com/wizard_kv)
-
-![LinkedIn QR](https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://www.linkedin.com/in/kunwarvikrant)
+## 🤝 Let’s Build Together
+I am currently open to the following opportunities:
+- **Consulting:** High-performance distributed systems and agentic ML architectures.
+- **Research:** Collaborations focusing on multimodal AI, RL, and distributed training.
+- **Advisory:** Technical guidance and strategy for AI startups.
 
 ---
-*"Prefer code that ships and scales over code that sparkles."*
+
+## 📫 Connect
+
+- **Email:** kunwar.vikrant.professional@gmail.com
+- **LinkedIn:** [kunwarvikrant](https://www.linkedin.com/in/kunwarvikrant)
+- **X / Twitter:** [@wizard_kv](https://x.com/wizard_kv)
+
+<br>
+
+![LinkedIn QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.linkedin.com/in/kunwarvikrant)

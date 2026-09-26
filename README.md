@@ -5,9 +5,8 @@
 - **Experience:** 6+ years shipping production-grade ML and high-performance distributed systems.
 - **Philosophy:** *"Prefer code that ships and scales over code that sparkles."*
 
-## 🧠 Core Competencies & Architecture
 
-| Domain | Engineering Paradigms & Capabilities |
+| Domain | Engineering |
 | :--- | :--- |
 | **Systems Programming** | Concurrent & parallel computing, memory-safe backend services, high-throughput APIs. |
 | **Artificial Intelligence** | Deep learning architectures, large-scale model inference, agentic orchestration, scalable MLOps. |
